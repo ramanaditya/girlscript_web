@@ -73,6 +73,3 @@ This project is licensed under the MIT License - you can see [LICENSE](https://g
 If you have anything to share, anything at all, feel free to drop by the GirlScript [room](https://gitter.im/Girl-script/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Rohit](https://github.com/rowhitswami) by email (rohit [at] girlscript [dot] tech) or [Anubha](https://github.com/anubhamane) by email (anubha [at] girlscript [dot] tech) or on [Twitter](https://twitter.com/girlscript1).
 
 Thank you for your interest. Have a nice day! :D
-
-
-
